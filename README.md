@@ -8,8 +8,11 @@ Data science, Artificial intelligence, and Machine Learning enthusiast, actively
 Here are some ideas to get you started:
 
 🔭 I’m currently working on a Digital image processing & Deep learning project.
+
 🌱 I’m currently learning deep learning and TensorFlow .
+
 👯 I’m looking to collaborate on ...
+
 🤔 I’m looking for help with ...
 💬 Ask me about social Psychology 
 📫 How to reach me: Linkedin](https://www.linkedin.com/in/saifeddinelayouni/)
